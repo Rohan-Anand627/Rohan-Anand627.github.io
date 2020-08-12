@@ -1,0 +1,121 @@
+body {
+    background: #077054;
+    font-family: 'latoregular';
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+
+}
+
+h1,h2,.navbar,.content{
+    text-align: center;  
+}
+
+body .top{
+    color: #99fa99;
+    text-decoration: none;
+}
+
+body .sec-top{
+    color: #b6d8cf;
+    display: block;
+    font-family: 'nixie_oneregular';
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+.navbar{
+    padding-right: 30px;
+}
+
+.navbar ul a{
+    color: #b6d8cf;
+    font-size: 18px;
+    text-align: center;
+    padding: 0 46px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+#card h1{
+    color: #21a51e;
+    font-family: 'nixie_oneregular';
+    font-size: 100px;
+    font-weight: normal;
+    line-height: 100px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+#card p{
+    color: #21a51e;
+    font-family: 'nixie_oneregular';
+    font-size: 100px;
+    font-weight: normal;
+    line-height: 100px;
+    padding: 0;
+    text-align: left;
+}
+
+#card{
+    background: #ffffff;
+    margin: 1px auto 0;
+    max-width: 880px;
+    min-height: 827px;
+    overflow: hidden;
+    padding: 45 40 46;
+}
+
+.row{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.col-6{
+    width:50%;
+}
+ .yoga .content{
+     float: left;
+ }
+ .img{
+     float:right;
+     margin-right: 100px;
+     height: 650px;
+ }
+
+ hr{
+     border: 10px solid #DDA0DD;
+ }
+
+ .foot{
+     color: #99fa99;
+     display: block;
+     font-size: 26px;
+     line-height: 24px;
+     text-align: center;
+     margin-top: 5px;
+     
+ }
+
+ .last{
+     color:#b6d8cf;
+     font-size: 12px;
+    text-align: center;
+ }
+
+ ul a:hover{
+     color: rgb(233, 173, 183);}
+
+.icons{
+    color: #99fa99;
+    display: block;
+    font-size: 26px;
+    line-height: 24px;
+    text-align: center;
+    
+}     
